@@ -1,6 +1,5 @@
 
 # Curso Python CE
-datos/
 salida/
 *.db
 .pytest_cache/
